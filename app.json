@@ -1,0 +1,32 @@
+{
+  "id": "e6b81e2f-c465-4af6-9a00-d28dc7ed2216",
+  "name": "NoteExport",
+  "publisher": "Ryan",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Export notes from service",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 80170,
+      "to": 80175
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
